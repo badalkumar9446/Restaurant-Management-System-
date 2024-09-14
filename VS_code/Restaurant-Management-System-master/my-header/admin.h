@@ -1,7 +1,3 @@
-//
-// Created by navin on 02-11-2021.
-//
-
 #ifndef RESTAURANT_MANAGEMENT_SYSTEM_ADMIN_H
 #define RESTAURANT_MANAGEMENT_SYSTEM_ADMIN_H
 
