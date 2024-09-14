@@ -1,7 +1,3 @@
-//
-// Created by navin on 05-11-2021.
-//
-
 #ifndef RESTAURANT_MANAGEMENT_SYSTEM_CUSTOMER_H
 #define RESTAURANT_MANAGEMENT_SYSTEM_CUSTOMER_H
 #include <string>
