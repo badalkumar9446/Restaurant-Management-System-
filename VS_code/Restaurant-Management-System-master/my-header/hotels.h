@@ -1,6 +1,3 @@
-//
-// Created by navin on 02-11-2021.
-//
 
 #ifndef RESTAURANT_MANAGEMENT_SYSTEM_HOTELS_H
 #define RESTAURANT_MANAGEMENT_SYSTEM_HOTELS_H
@@ -361,7 +358,7 @@ Hotels *delete_food(const string &hotel_name, int serial_no) {
         cout << "\nNo food available at: " << serial_no << " serial number\n";
         return nullptr;
     }
-    Hotels::Foods *pre = result->food_item;
+    Hotels:::Foods *pre = result->food_item;
     while (pre->next != fd)
         pre = pre->next;
     pre->next = fd->next;
